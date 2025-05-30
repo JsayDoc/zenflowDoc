@@ -1,0 +1,14 @@
+{
+  "name": "Zenflow",
+  "version": "1.0.0",
+  "description": "API documentation",
+  "title": "Project Zenflow",
+  "url": "https://devapi.zenflowapp.com/api/v1/",
+  "sampleUrl": "https://devapi.zenflowapp.com/api/v1/",
+  "template": {
+    "showRequiredLabels": true,
+    "withCompare": true,
+    "withGenerator": true,
+    "aloneDisplay": false
+  }
+}
